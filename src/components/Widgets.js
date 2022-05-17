@@ -1,5 +1,5 @@
 import React from "react";
-import "./Widgets.css";
+import "../styles/Widgets.css";
 import SearchIcon from "@mui/icons-material/Search";
 import {
   TwitterTimelineEmbed,

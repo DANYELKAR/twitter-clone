@@ -1,5 +1,5 @@
 import React from "react";
-import "./TweetBox.css";
+import "../styles/TweetBox.css";
 import { Avatar, Button } from "@mui/material";
 
 const TweetBox = () => {
